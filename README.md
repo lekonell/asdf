@@ -3,7 +3,7 @@
 	supporting win10+
 
 ## preview
-	![application preview](/asdf.png)
+![application preview](/asdf.png)
 
 ## how to use
 	Open - Save (As): Repair Terrain  
