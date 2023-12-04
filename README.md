@@ -8,3 +8,4 @@
 ## how to use
 	Open - Save (As): Repair Terrain  
 	Open - Protect - Save (As): Repair Terrain + Simple Protection
+* ``Terrain Repair`` means 'To convert 0x00 (Null) Tiles to 0x01'
